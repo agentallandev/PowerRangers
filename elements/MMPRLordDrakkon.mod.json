@@ -13,7 +13,7 @@
     "creativeTab": {
       "value": "No creative tab entry"
     },
-    "armorTextureFile": "mmred",
+    "armorTextureFile": "drakkon_",
     "helmetName": "Lord Drakon Helmet",
     "bodyName": "Lord Drakon Chest",
     "leggingsName": "Lord Drakon Pants",
@@ -51,7 +51,7 @@
     "toughness": 4.0,
     "knockbackResistance": 0.35,
     "equipSound": {
-      "value": "CUSTOM:mm_trex_roar"
+      "value": "CUSTOM:mm_morph"
     },
     "repairItems": []
   }

@@ -51,7 +51,7 @@
     "toughness": 4.0,
     "knockbackResistance": 0.35,
     "equipSound": {
-      "value": "CUSTOM:mm_trex_roar"
+      "value": "CUSTOM:mm_morph"
     },
     "repairItems": []
   }

@@ -33,7 +33,7 @@ public abstract class MMPRRangerSlayerItem extends ArmorItem {
 
 			@Override
 			public SoundEvent getEquipSound() {
-				return ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("powerrangers:mm_trex_roar"));
+				return ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("powerrangers:mm_morph"));
 			}
 
 			@Override
@@ -65,7 +65,7 @@ public abstract class MMPRRangerSlayerItem extends ArmorItem {
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "powerrangers:textures/models/armor/mmred_layer_1.png";
+			return "powerrangers:textures/models/armor/rangerslayer__layer_1.png";
 		}
 	}
 
@@ -76,7 +76,7 @@ public abstract class MMPRRangerSlayerItem extends ArmorItem {
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "powerrangers:textures/models/armor/mmred_layer_1.png";
+			return "powerrangers:textures/models/armor/rangerslayer__layer_1.png";
 		}
 	}
 
@@ -87,7 +87,7 @@ public abstract class MMPRRangerSlayerItem extends ArmorItem {
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "powerrangers:textures/models/armor/mmred_layer_2.png";
+			return "powerrangers:textures/models/armor/rangerslayer__layer_2.png";
 		}
 	}
 
@@ -98,7 +98,7 @@ public abstract class MMPRRangerSlayerItem extends ArmorItem {
 
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-			return "powerrangers:textures/models/armor/mmred_layer_1.png";
+			return "powerrangers:textures/models/armor/rangerslayer__layer_1.png";
 		}
 	}
 }

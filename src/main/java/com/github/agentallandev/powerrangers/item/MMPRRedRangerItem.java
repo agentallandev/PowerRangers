@@ -33,7 +33,7 @@ public abstract class MMPRRedRangerItem extends ArmorItem {
 
 			@Override
 			public SoundEvent getEquipSound() {
-				return ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("powerrangers:mm_trex_roar"));
+				return ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("powerrangers:mm_morph"));
 			}
 
 			@Override
