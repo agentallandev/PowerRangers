@@ -1,5 +1,528 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "MMPRRedRanger",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_red_ranger",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/MMPR/Ranger Suits"
+    },
+    {
+      "name": "MMPRBlueRanger",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_blue_ranger",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/MMPR/Ranger Suits"
+    },
+    {
+      "name": "MMPRYellowRanger",
+      "type": "armor",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_yellow_ranger",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/MMPR/Ranger Suits"
+    },
+    {
+      "name": "MMPRBlackRanger",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_black_ranger",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/MMPR/Ranger Suits"
+    },
+    {
+      "name": "MMPRPinkRanger",
+      "type": "armor",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_pink_ranger",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/MMPR/Ranger Suits"
+    },
+    {
+      "name": "MMPRGreenRanger",
+      "type": "armor",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_green_ranger",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/MMPR/Ranger Suits"
+    },
+    {
+      "name": "MMPRWhiteRanger",
+      "type": "armor",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_white_ranger",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/MMPR/Ranger Suits"
+    },
+    {
+      "name": "MMPRLordDrakkon",
+      "type": "armor",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_lord_drakkon",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/MMPR/Ranger Suits"
+    },
+    {
+      "name": "MMPRRangerSlayer",
+      "type": "armor",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_ranger_slayer",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/MMPR/Ranger Suits"
+    },
+    {
+      "name": "MMPRCreativeTab",
+      "type": "tab",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_creative_tab",
+      "path": "~/Misc"
+    },
+    {
+      "name": "MMPRRedMorpher",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_red_morpher",
+      "path": "~/MMPR/Morphers"
+    },
+    {
+      "name": "MMPRYellowMorpher",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_yellow_morpher",
+      "path": "~/MMPR/Morphers"
+    },
+    {
+      "name": "MMPRBlueMorpher",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_blue_morpher",
+      "path": "~/MMPR/Morphers"
+    },
+    {
+      "name": "MMPRBlackMorpher",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_black_morpher",
+      "path": "~/MMPR/Morphers"
+    },
+    {
+      "name": "MMPRPinkMorpher",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_pink_morpher",
+      "path": "~/MMPR/Morphers"
+    },
+    {
+      "name": "MMPRGreenMorpher",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_green_morpher",
+      "path": "~/MMPR/Morphers"
+    },
+    {
+      "name": "MMPRWhiteMorhper",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_white_morhper",
+      "path": "~/MMPR/Morphers"
+    },
+    {
+      "name": "MMPRDrakkonMorpher",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_drakkon_morpher",
+      "path": "~/MMPR/Morphers"
+    },
+    {
+      "name": "MMPRSlayerMorpher",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_slayer_morpher",
+      "path": "~/MMPR/Morphers"
+    },
+    {
+      "name": "MMPRMorphRed",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_morph_red",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRMorphYellow",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_morph_yellow",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRMorphBlue",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_morph_blue",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRMorphBlack",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_morph_black",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRMorphPink",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_morph_pink",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRMorphGreen",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_morph_green",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRMorphWhite",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_morph_white",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRMorphDrakkon",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_morph_drakkon",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRMorphSlayer",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_morph_slayer",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [
     {
@@ -94,28 +617,95 @@
   "language_map": {
     "en_us": {
       "subtitles.mm_trex_roar": "",
-      "subtitles.mm_mastadon_roar": "",
-      "subtitles.mm_blaster_fire": "",
-      "subtitles.mm_triceratops_roar": "",
-      "subtitles.mm_pteradactyl_roar": "",
-      "subtitles.mm_sabertooth_roar": "",
-      "subtitles.mm_tiger_roar": "",
+      "item.powerrangers.mmpr_green_ranger_leggings": "Green Ranger Pants",
+      "item.powerrangers.mmpr_pink_ranger_boots": "Pink Ranger Boots",
+      "item.powerrangers.mmpr_white_morhper": "White Morpher",
+      "item.powerrangers.mmpr_green_morpher": "Green Morpher",
+      "item.powerrangers.mmpr_ranger_slayer_helmet": "Ranger Slayer Helmet",
+      "item.powerrangers.mmpr_blue_ranger_chestplate": "Blue Ranger Chest",
       "subtitles.mm_dragon_roar": "",
-      "subtitles.mm_power_down": "",
+      "item.powerrangers.mmpr_ranger_slayer_chestplate": "Ranger Slayer Chest",
+      "item.powerrangers.mmpr_red_ranger_helmet": "Red Ranger Helmet",
+      "item.powerrangers.mmpr_lord_drakkon_helmet": "Lord Drakon Helmet",
+      "item.powerrangers.mmpr_red_ranger_leggings": "Red Ranger Pants",
+      "item.powerrangers.mmpr_red_ranger_boots": "Red Ranger Boots",
+      "item.powerrangers.mmpr_green_ranger_helmet": "Green Ranger Helmet",
+      "item.powerrangers.mmpr_pink_ranger_chestplate": "Pink Ranger Chest",
+      "item.powerrangers.mmpr_black_ranger_leggings": "Black Ranger Pants",
+      "subtitles.mm_sabertooth_roar": "",
+      "item.powerrangers.mmpr_black_ranger_boots": "Black Ranger Boots",
+      "item.powerrangers.mmpr_red_morpher": "Red Morpher",
+      "item.powerrangers.mmpr_lord_drakkon_boots": "Lord Drakon Boots",
+      "item.powerrangers.mmpr_slayer_morpher": "Ranger Slayer Morpher",
+      "subtitles.mm_theme_music": "",
+      "item.powerrangers.mmpr_red_ranger_chestplate": "Red Ranger Chest",
+      "itemGroup.tabmmpr_creative_tab": "Mighty Morphin\u0027 Power Rangers",
+      "subtitles.mm_triceratops_roar": "",
+      "item.powerrangers.mmpr_blue_ranger_helmet": "Blue Ranger Helmet",
+      "item.powerrangers.mmpr_ranger_slayer_boots": "Ranger Slayer Boots",
+      "item.powerrangers.mmpr_black_ranger_chestplate": "Black Ranger Chest",
+      "subtitles.mm_tiger_roar": "",
+      "item.powerrangers.mmpr_blue_ranger_boots": "Blue Ranger Boots",
+      "item.powerrangers.mmpr_yellow_ranger_leggings": "Yellow Ranger Pants",
+      "item.powerrangers.mmpr_white_ranger_leggings": "White Ranger Pants",
+      "item.powerrangers.mmpr_yellow_morpher": "Yellow Morpher",
       "subtitles.mm_morph": "",
-      "subtitles.mm_theme_music": ""
+      "item.powerrangers.mmpr_blue_ranger_leggings": "Blue Ranger Pants",
+      "item.powerrangers.mmpr_white_ranger_boots": "White Ranger Boots",
+      "item.powerrangers.mmpr_black_morpher": "Black Morpher",
+      "item.powerrangers.mmpr_green_ranger_boots": "Green Ranger Boots",
+      "subtitles.mm_power_down": "",
+      "subtitles.mm_mastadon_roar": "",
+      "item.powerrangers.mmpr_white_ranger_helmet": "White Ranger Helmet",
+      "item.powerrangers.mmpr_pink_morpher": "Pink Morpher",
+      "item.powerrangers.mmpr_lord_drakkon_leggings": "Lord Drakon Pants",
+      "item.powerrangers.mmpr_pink_ranger_leggings": "Pink Ranger Pants",
+      "item.powerrangers.mmpr_ranger_slayer_leggings": "Ranger Slayer Pants",
+      "item.powerrangers.mmpr_green_ranger_chestplate": "Green Ranger Chest",
+      "item.powerrangers.mmpr_yellow_ranger_helmet": "Yellow Ranger Helmet",
+      "subtitles.mm_blaster_fire": "",
+      "item.powerrangers.mmpr_lord_drakkon_chestplate": "Lord Drakon Chest",
+      "item.powerrangers.mmpr_pink_ranger_helmet": "Pink Ranger Helmet",
+      "item.powerrangers.mmpr_blue_morpher": "Blue Morpher",
+      "subtitles.mm_pteradactyl_roar": "",
+      "item.powerrangers.mmpr_drakkon_morpher": "Lord Drakkon Morpher",
+      "item.powerrangers.mmpr_yellow_ranger_boots": "Yellow Ranger Boots",
+      "item.powerrangers.mmpr_black_ranger_helmet": "Black Ranger Helmet",
+      "item.powerrangers.mmpr_white_ranger_chestplate": "White Ranger Chest",
+      "item.powerrangers.mmpr_yellow_ranger_chestplate": "Yellow Ranger Chest"
     }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "MMPR",
+        "children": [
+          {
+            "name": "Ranger Suits",
+            "children": []
+          },
+          {
+            "name": "Morphers",
+            "children": [
+              {
+                "name": "Morpher Logic",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Misc",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "powerrangers",
     "modName": "PowerRangers",
     "version": "1.0.0",
-    "author": "Development, MCreator",
-    "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,

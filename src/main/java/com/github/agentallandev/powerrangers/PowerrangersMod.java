@@ -30,6 +30,9 @@ import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
 
+import com.github.agentallandev.powerrangers.init.PowerrangersModTabs;
+import com.github.agentallandev.powerrangers.init.PowerrangersModItems;
+
 @Mod("powerrangers")
 public class PowerrangersMod {
 	public static final Logger LOGGER = LogManager.getLogger(PowerrangersMod.class);
@@ -40,8 +43,10 @@ public class PowerrangersMod {
 	private static int messageID = 0;
 
 	public PowerrangersMod() {
-
+		PowerrangersModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+
+		PowerrangersModItems.REGISTRY.register(bus);
 
 	}
 
