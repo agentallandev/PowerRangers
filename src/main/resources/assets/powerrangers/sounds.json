@@ -1,0 +1,101 @@
+{
+  "mm_dragon_roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "powerrangers:dragonroar",
+        "stream": false
+      }
+    ]
+  },
+  "mm_mastadon_roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "powerrangers:mastadonroar",
+        "stream": false
+      }
+    ]
+  },
+  "mm_pteradactyl_roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "powerrangers:pteradactyleroar",
+        "stream": false
+      }
+    ]
+  },
+  "mm_triceratops_roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "powerrangers:triceratopsroar",
+        "stream": false
+      }
+    ]
+  },
+  "mm_sabertooth_roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "powerrangers:sabertoothroar",
+        "stream": false
+      }
+    ]
+  },
+  "mm_trex_roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "powerrangers:trexroar",
+        "stream": false
+      }
+    ]
+  },
+  "mm_tiger_roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "powerrangers:tigersound",
+        "stream": false
+      }
+    ]
+  },
+  "mm_theme_music": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "powerrangers:powerrangersdisk",
+        "stream": true
+      }
+    ]
+  },
+  "mm_morph": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "powerrangers:morph",
+        "stream": false
+      }
+    ]
+  },
+  "mm_power_down": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "powerrangers:powerdown",
+        "stream": false
+      }
+    ]
+  },
+  "mm_blaster_fire": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "powerrangers:laser",
+        "stream": false
+      }
+    ]
+  }
+}
