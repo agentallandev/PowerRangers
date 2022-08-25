@@ -1,0 +1,7 @@
+{
+  "parent": "powerrangers:custom/powerlance",
+  "textures": {
+    "0": "powerrangers:blocks/lancepower",
+    "particle": "powerrangers:items/logomightymorphin"
+  }
+}

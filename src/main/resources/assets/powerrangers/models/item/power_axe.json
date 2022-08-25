@@ -1,0 +1,7 @@
+{
+  "parent": "powerrangers:custom/poweraxe",
+  "textures": {
+    "0": "powerrangers:blocks/axepower",
+    "particle": "powerrangers:items/logomightymorphin"
+  }
+}

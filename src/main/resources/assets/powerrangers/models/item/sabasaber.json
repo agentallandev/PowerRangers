@@ -1,0 +1,7 @@
+{
+  "parent": "powerrangers:custom/sabasaber",
+  "textures": {
+    "0": "powerrangers:blocks/sabasaber",
+    "particle": "powerrangers:items/logomightymorphin"
+  }
+}

@@ -3,7 +3,7 @@
     {
       "name": "MMPRRedRanger",
       "type": "armor",
-      "sortid": 1,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_red_ranger",
@@ -18,7 +18,7 @@
     {
       "name": "MMPRBlueRanger",
       "type": "armor",
-      "sortid": 2,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_blue_ranger",
@@ -33,7 +33,7 @@
     {
       "name": "MMPRYellowRanger",
       "type": "armor",
-      "sortid": 3,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_yellow_ranger",
@@ -48,7 +48,7 @@
     {
       "name": "MMPRBlackRanger",
       "type": "armor",
-      "sortid": 4,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_black_ranger",
@@ -63,7 +63,7 @@
     {
       "name": "MMPRPinkRanger",
       "type": "armor",
-      "sortid": 5,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_pink_ranger",
@@ -78,7 +78,7 @@
     {
       "name": "MMPRGreenRanger",
       "type": "armor",
-      "sortid": 6,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_green_ranger",
@@ -93,7 +93,7 @@
     {
       "name": "MMPRWhiteRanger",
       "type": "armor",
-      "sortid": 7,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_white_ranger",
@@ -108,7 +108,7 @@
     {
       "name": "MMPRLordDrakkon",
       "type": "armor",
-      "sortid": 8,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_lord_drakkon",
@@ -123,7 +123,7 @@
     {
       "name": "MMPRRangerSlayer",
       "type": "armor",
-      "sortid": 9,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_ranger_slayer",
@@ -138,7 +138,7 @@
     {
       "name": "MMPRCreativeTab",
       "type": "tab",
-      "sortid": 10,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_creative_tab",
@@ -147,7 +147,7 @@
     {
       "name": "MMPRRedMorpher",
       "type": "item",
-      "sortid": 11,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_red_morpher",
@@ -156,7 +156,7 @@
     {
       "name": "MMPRYellowMorpher",
       "type": "item",
-      "sortid": 12,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_yellow_morpher",
@@ -165,7 +165,7 @@
     {
       "name": "MMPRBlueMorpher",
       "type": "item",
-      "sortid": 13,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_blue_morpher",
@@ -174,7 +174,7 @@
     {
       "name": "MMPRBlackMorpher",
       "type": "item",
-      "sortid": 14,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_black_morpher",
@@ -183,7 +183,7 @@
     {
       "name": "MMPRPinkMorpher",
       "type": "item",
-      "sortid": 15,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_pink_morpher",
@@ -192,7 +192,7 @@
     {
       "name": "MMPRGreenMorpher",
       "type": "item",
-      "sortid": 16,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_green_morpher",
@@ -201,7 +201,7 @@
     {
       "name": "MMPRWhiteMorhper",
       "type": "item",
-      "sortid": 17,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_white_morhper",
@@ -210,7 +210,7 @@
     {
       "name": "MMPRDrakkonMorpher",
       "type": "item",
-      "sortid": 18,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_drakkon_morpher",
@@ -219,7 +219,7 @@
     {
       "name": "MMPRSlayerMorpher",
       "type": "item",
-      "sortid": 19,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_slayer_morpher",
@@ -228,7 +228,7 @@
     {
       "name": "MMPRMorphRed",
       "type": "procedure",
-      "sortid": 20,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_morph_red",
@@ -261,7 +261,7 @@
     {
       "name": "MMPRMorphYellow",
       "type": "procedure",
-      "sortid": 21,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_morph_yellow",
@@ -294,7 +294,7 @@
     {
       "name": "MMPRMorphBlue",
       "type": "procedure",
-      "sortid": 22,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_morph_blue",
@@ -327,7 +327,7 @@
     {
       "name": "MMPRMorphBlack",
       "type": "procedure",
-      "sortid": 23,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_morph_black",
@@ -360,7 +360,7 @@
     {
       "name": "MMPRMorphPink",
       "type": "procedure",
-      "sortid": 24,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_morph_pink",
@@ -393,7 +393,7 @@
     {
       "name": "MMPRMorphGreen",
       "type": "procedure",
-      "sortid": 25,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_morph_green",
@@ -426,7 +426,7 @@
     {
       "name": "MMPRMorphWhite",
       "type": "procedure",
-      "sortid": 26,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_morph_white",
@@ -459,7 +459,7 @@
     {
       "name": "MMPRMorphDrakkon",
       "type": "procedure",
-      "sortid": 27,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_morph_drakkon",
@@ -492,7 +492,7 @@
     {
       "name": "MMPRMorphSlayer",
       "type": "procedure",
-      "sortid": 28,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_morph_slayer",
@@ -525,7 +525,7 @@
     {
       "name": "MMPRWearingHelmetRed",
       "type": "procedure",
-      "sortid": 29,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_wearing_helmet_red",
@@ -543,7 +543,7 @@
     {
       "name": "MMPRRedHelmetOverlay",
       "type": "overlay",
-      "sortid": 29,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_red_helmet_overlay",
@@ -552,7 +552,7 @@
     {
       "name": "MMPRWearingHelmetYellow",
       "type": "procedure",
-      "sortid": 30,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_wearing_helmet_yellow",
@@ -570,7 +570,7 @@
     {
       "name": "MMPRYellowHelmetOverlay",
       "type": "overlay",
-      "sortid": 31,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_yellow_helmet_overlay",
@@ -579,7 +579,7 @@
     {
       "name": "MMPRWearingHelmetBlue",
       "type": "procedure",
-      "sortid": 32,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_wearing_helmet_blue",
@@ -597,7 +597,7 @@
     {
       "name": "MMPRBlueHelmetOverlay",
       "type": "overlay",
-      "sortid": 33,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_blue_helmet_overlay",
@@ -606,7 +606,7 @@
     {
       "name": "MMPRWearingHelmetPink",
       "type": "procedure",
-      "sortid": 34,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_wearing_helmet_pink",
@@ -624,7 +624,7 @@
     {
       "name": "MMPRPinkHelmetOverlay",
       "type": "overlay",
-      "sortid": 35,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_pink_helmet_overlay",
@@ -633,7 +633,7 @@
     {
       "name": "MMPRWearingHelmetBlack",
       "type": "procedure",
-      "sortid": 36,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_wearing_helmet_black",
@@ -651,7 +651,7 @@
     {
       "name": "MMPRBlackHelmetOverlay",
       "type": "overlay",
-      "sortid": 37,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_black_helmet_overlay",
@@ -660,7 +660,7 @@
     {
       "name": "MMPRWearingHelmetGreen",
       "type": "procedure",
-      "sortid": 38,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_wearing_helmet_green",
@@ -678,7 +678,7 @@
     {
       "name": "MMPRGreenHelmetOverlay",
       "type": "overlay",
-      "sortid": 39,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_green_helmet_overlay",
@@ -687,7 +687,7 @@
     {
       "name": "MMPRWearingHelmetWhite",
       "type": "procedure",
-      "sortid": 40,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_wearing_helmet_white",
@@ -705,7 +705,7 @@
     {
       "name": "MMPRWhiteHelmetOverlay",
       "type": "overlay",
-      "sortid": 41,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_white_helmet_overlay",
@@ -714,7 +714,7 @@
     {
       "name": "MMPRWearingHelmetDrakkon",
       "type": "procedure",
-      "sortid": 42,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_wearing_helmet_drakkon",
@@ -732,7 +732,7 @@
     {
       "name": "MMPRDrakkonHelmetOverlay",
       "type": "overlay",
-      "sortid": 43,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_drakkon_helmet_overlay",
@@ -741,7 +741,7 @@
     {
       "name": "MMPRWearingSlayerHelmet",
       "type": "procedure",
-      "sortid": 44,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_wearing_slayer_helmet",
@@ -759,7 +759,7 @@
     {
       "name": "MMPRSlayerHelmetOverlay",
       "type": "overlay",
-      "sortid": 45,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_slayer_helmet_overlay",
@@ -768,7 +768,7 @@
     {
       "name": "ToggleHelmetOverlayOnKeyPressed",
       "type": "procedure",
-      "sortid": 46,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "toggle_helmet_overlay_on_key_pressed",
@@ -785,7 +785,7 @@
     {
       "name": "ToggleHelmetOverlay",
       "type": "keybind",
-      "sortid": 46,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "toggle_helmet_overlay",
@@ -794,7 +794,7 @@
     {
       "name": "FirstPerson",
       "type": "procedure",
-      "sortid": 47,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "first_person",
@@ -811,7 +811,7 @@
     {
       "name": "MMPRUnmorphRed",
       "type": "procedure",
-      "sortid": 48,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_unmorph_red",
@@ -844,7 +844,7 @@
     {
       "name": "MMPRUnmorphYellow",
       "type": "procedure",
-      "sortid": 49,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_unmorph_yellow",
@@ -877,7 +877,7 @@
     {
       "name": "MMPRUnmorphBlue",
       "type": "procedure",
-      "sortid": 50,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_unmorph_blue",
@@ -910,7 +910,7 @@
     {
       "name": "MMPRUnmorphBlack",
       "type": "procedure",
-      "sortid": 51,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_unmorph_black",
@@ -943,7 +943,7 @@
     {
       "name": "MMPRUnmorphPink",
       "type": "procedure",
-      "sortid": 52,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_unmorph_pink",
@@ -976,7 +976,7 @@
     {
       "name": "MMPRUnmorphGreen",
       "type": "procedure",
-      "sortid": 53,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_unmorph_green",
@@ -1009,7 +1009,7 @@
     {
       "name": "MMPRUnmorphWhite",
       "type": "procedure",
-      "sortid": 54,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_unmorph_white",
@@ -1042,7 +1042,7 @@
     {
       "name": "MMPRUnmorphDrakkon",
       "type": "procedure",
-      "sortid": 55,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_unmorph_drakkon",
@@ -1075,7 +1075,7 @@
     {
       "name": "MMPRUnmorphSlayer",
       "type": "procedure",
-      "sortid": 56,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_unmorph_slayer",
@@ -1108,7 +1108,7 @@
     {
       "name": "UnmorphKeybindFunction",
       "type": "procedure",
-      "sortid": 57,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "unmorph_keybind_function",
@@ -1141,7 +1141,7 @@
     {
       "name": "UnmorphKeybind",
       "type": "keybind",
-      "sortid": 58,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "unmorph_keybind",
@@ -1150,7 +1150,7 @@
     {
       "name": "RangerEffects",
       "type": "procedure",
-      "sortid": 59,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ranger_effects",
@@ -1167,7 +1167,7 @@
     {
       "name": "MMPRHelmet",
       "type": "tag",
-      "sortid": 60,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_helmet",
@@ -1176,7 +1176,7 @@
     {
       "name": "MMPRChest",
       "type": "tag",
-      "sortid": 61,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_chest",
@@ -1185,7 +1185,7 @@
     {
       "name": "MMPRPants",
       "type": "tag",
-      "sortid": 62,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_pants",
@@ -1194,11 +1194,83 @@
     {
       "name": "MMPRBoots",
       "type": "tag",
-      "sortid": 63,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mmpr_boots",
       "path": "~/MMPR/Misc"
+    },
+    {
+      "name": "PowerSword",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_sword",
+      "path": "~/MMPR/Weapons"
+    },
+    {
+      "name": "PowerLance",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_lance",
+      "path": "~/MMPR/Weapons"
+    },
+    {
+      "name": "PowerDaggers",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_daggers",
+      "path": "~/MMPR/Weapons"
+    },
+    {
+      "name": "DragonDagger",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_dagger",
+      "path": "~/MMPR/Weapons"
+    },
+    {
+      "name": "Sabasaber",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sabasaber",
+      "path": "~/MMPR/Weapons"
+    },
+    {
+      "name": "PowerAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_axe",
+      "path": "~/MMPR/Weapons"
+    },
+    {
+      "name": "PowerBow",
+      "type": "rangeditem",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_bow",
+      "path": "~/MMPR/Weapons"
+    },
+    {
+      "name": "DarknessBow",
+      "type": "rangeditem",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkness_bow",
+      "path": "~/MMPR/Weapons"
     }
   ],
   "variable_elements": [
@@ -1337,10 +1409,12 @@
       "item.powerrangers.mmpr_pink_ranger_chestplate": "Pink Ranger Chest",
       "item.powerrangers.mmpr_black_ranger_leggings": "Black Ranger Pants",
       "subtitles.mm_sabertooth_roar": "",
+      "item.powerrangers.power_lance": "Power Lance",
       "item.powerrangers.mmpr_black_ranger_boots": "Black Ranger Boots",
       "item.powerrangers.mmpr_red_morpher": "Red Morpher",
       "item.powerrangers.mmpr_lord_drakkon_boots": "Lord Drakon Boots",
       "item.powerrangers.mmpr_slayer_morpher": "Ranger Slayer Morpher",
+      "item.powerrangers.power_bow": "Power Bow",
       "subtitles.mm_theme_music": "",
       "item.powerrangers.mmpr_red_ranger_chestplate": "Red Ranger Chest",
       "itemGroup.tabmmpr_creative_tab": "Mighty Morphin\u0027 Power Rangers",
@@ -1356,23 +1430,29 @@
       "subtitles.mm_morph": "",
       "item.powerrangers.mmpr_blue_ranger_leggings": "Blue Ranger Pants",
       "item.powerrangers.mmpr_white_ranger_boots": "White Ranger Boots",
+      "item.powerrangers.dragon_dagger": "Dragon Dagger",
       "item.powerrangers.mmpr_black_morpher": "Black Morpher",
       "item.powerrangers.mmpr_green_ranger_boots": "Green Ranger Boots",
       "subtitles.mm_power_down": "",
       "subtitles.mm_mastadon_roar": "",
       "item.powerrangers.mmpr_white_ranger_helmet": "White Ranger Helmet",
+      "item.powerrangers.sabasaber": "Saba Saber",
       "item.powerrangers.mmpr_pink_morpher": "Pink Morpher",
       "item.powerrangers.mmpr_lord_drakkon_leggings": "Lord Drakon Pants",
       "item.powerrangers.mmpr_pink_ranger_leggings": "Pink Ranger Pants",
       "item.powerrangers.mmpr_ranger_slayer_leggings": "Ranger Slayer Pants",
       "item.powerrangers.mmpr_green_ranger_chestplate": "Green Ranger Chest",
+      "item.powerrangers.power_axe": "Power Axe",
+      "item.powerrangers.darkness_bow": "Bow Of Darkness",
       "item.powerrangers.mmpr_yellow_ranger_helmet": "Yellow Ranger Helmet",
       "subtitles.mm_blaster_fire": "",
       "key.powerrangers.toggle_helmet_overlay": "Toggle Helmet Overlay",
       "item.powerrangers.mmpr_lord_drakkon_chestplate": "Lord Drakon Chest",
       "item.powerrangers.mmpr_pink_ranger_helmet": "Pink Ranger Helmet",
       "item.powerrangers.mmpr_blue_morpher": "Blue Morpher",
+      "item.powerrangers.power_daggers": "Power Daggers",
       "subtitles.mm_pteradactyl_roar": "",
+      "item.powerrangers.power_sword": "Power Sword",
       "item.powerrangers.mmpr_drakkon_morpher": "Lord Drakkon Morpher",
       "item.powerrangers.mmpr_yellow_ranger_boots": "Yellow Ranger Boots",
       "item.powerrangers.mmpr_black_ranger_helmet": "Black Ranger Helmet",

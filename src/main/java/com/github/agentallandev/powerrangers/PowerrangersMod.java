@@ -32,6 +32,7 @@ import java.util.function.BiConsumer;
 
 import com.github.agentallandev.powerrangers.init.PowerrangersModTabs;
 import com.github.agentallandev.powerrangers.init.PowerrangersModItems;
+import com.github.agentallandev.powerrangers.init.PowerrangersModEntities;
 
 @Mod("powerrangers")
 public class PowerrangersMod {
@@ -47,6 +48,7 @@ public class PowerrangersMod {
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
 		PowerrangersModItems.REGISTRY.register(bus);
+		PowerrangersModEntities.REGISTRY.register(bus);
 
 	}
 

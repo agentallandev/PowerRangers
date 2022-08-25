@@ -10,6 +10,12 @@ import net.minecraftforge.registries.DeferredRegister;
 
 import net.minecraft.world.item.Item;
 
+import com.github.agentallandev.powerrangers.item.SabasaberItem;
+import com.github.agentallandev.powerrangers.item.PowerSwordItem;
+import com.github.agentallandev.powerrangers.item.PowerLanceItem;
+import com.github.agentallandev.powerrangers.item.PowerDaggersItem;
+import com.github.agentallandev.powerrangers.item.PowerBowItem;
+import com.github.agentallandev.powerrangers.item.PowerAxeItem;
 import com.github.agentallandev.powerrangers.item.MMPRYellowRangerItem;
 import com.github.agentallandev.powerrangers.item.MMPRYellowMorpherItem;
 import com.github.agentallandev.powerrangers.item.MMPRWhiteRangerItem;
@@ -28,6 +34,8 @@ import com.github.agentallandev.powerrangers.item.MMPRBlueRangerItem;
 import com.github.agentallandev.powerrangers.item.MMPRBlueMorpherItem;
 import com.github.agentallandev.powerrangers.item.MMPRBlackRangerItem;
 import com.github.agentallandev.powerrangers.item.MMPRBlackMorpherItem;
+import com.github.agentallandev.powerrangers.item.DragonDaggerItem;
+import com.github.agentallandev.powerrangers.item.DarknessBowItem;
 import com.github.agentallandev.powerrangers.PowerrangersMod;
 
 public class PowerrangersModItems {
@@ -103,13 +111,21 @@ public class PowerrangersModItems {
 			() -> new MMPRRangerSlayerItem.Leggings());
 	public static final RegistryObject<Item> MMPR_RANGER_SLAYER_BOOTS = REGISTRY.register("mmpr_ranger_slayer_boots",
 			() -> new MMPRRangerSlayerItem.Boots());
+	public static final RegistryObject<Item> POWER_AXE = REGISTRY.register("power_axe", () -> new PowerAxeItem());
 	public static final RegistryObject<Item> MMPR_RED_MORPHER = REGISTRY.register("mmpr_red_morpher", () -> new MMPRRedMorpherItem());
+	public static final RegistryObject<Item> POWER_BOW = REGISTRY.register("power_bow", () -> new PowerBowItem());
 	public static final RegistryObject<Item> MMPR_YELLOW_MORPHER = REGISTRY.register("mmpr_yellow_morpher", () -> new MMPRYellowMorpherItem());
+	public static final RegistryObject<Item> POWER_LANCE = REGISTRY.register("power_lance", () -> new PowerLanceItem());
 	public static final RegistryObject<Item> MMPR_BLUE_MORPHER = REGISTRY.register("mmpr_blue_morpher", () -> new MMPRBlueMorpherItem());
+	public static final RegistryObject<Item> POWER_DAGGERS = REGISTRY.register("power_daggers", () -> new PowerDaggersItem());
 	public static final RegistryObject<Item> MMPR_BLACK_MORPHER = REGISTRY.register("mmpr_black_morpher", () -> new MMPRBlackMorpherItem());
+	public static final RegistryObject<Item> POWER_SWORD = REGISTRY.register("power_sword", () -> new PowerSwordItem());
 	public static final RegistryObject<Item> MMPR_PINK_MORPHER = REGISTRY.register("mmpr_pink_morpher", () -> new MMPRPinkMorpherItem());
+	public static final RegistryObject<Item> DRAGON_DAGGER = REGISTRY.register("dragon_dagger", () -> new DragonDaggerItem());
 	public static final RegistryObject<Item> MMPR_GREEN_MORPHER = REGISTRY.register("mmpr_green_morpher", () -> new MMPRGreenMorpherItem());
+	public static final RegistryObject<Item> SABASABER = REGISTRY.register("sabasaber", () -> new SabasaberItem());
 	public static final RegistryObject<Item> MMPR_WHITE_MORHPER = REGISTRY.register("mmpr_white_morhper", () -> new MMPRWhiteMorhperItem());
+	public static final RegistryObject<Item> DARKNESS_BOW = REGISTRY.register("darkness_bow", () -> new DarknessBowItem());
 	public static final RegistryObject<Item> MMPR_DRAKKON_MORPHER = REGISTRY.register("mmpr_drakkon_morpher", () -> new MMPRDrakkonMorpherItem());
 	public static final RegistryObject<Item> MMPR_SLAYER_MORPHER = REGISTRY.register("mmpr_slayer_morpher", () -> new MMPRSlayerMorpherItem());
 }

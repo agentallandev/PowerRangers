@@ -1,0 +1,7 @@
+{
+  "parent": "powerrangers:custom/bowofdarkness",
+  "textures": {
+    "0": "powerrangers:blocks/bowofdarkness",
+    "particle": "powerrangers:items/logomightymorphin"
+  }
+}
