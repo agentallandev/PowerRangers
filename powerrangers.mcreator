@@ -521,9 +521,314 @@
         ]
       },
       "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRWearingHelmetRed",
+      "type": "procedure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_wearing_helmet_red",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRRedHelmetOverlay",
+      "type": "overlay",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_red_helmet_overlay",
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRWearingHelmetYellow",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_wearing_helmet_yellow",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRYellowHelmetOverlay",
+      "type": "overlay",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_yellow_helmet_overlay",
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRWearingHelmetBlue",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_wearing_helmet_blue",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRBlueHelmetOverlay",
+      "type": "overlay",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_blue_helmet_overlay",
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRWearingHelmetPink",
+      "type": "procedure",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_wearing_helmet_pink",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRPinkHelmetOverlay",
+      "type": "overlay",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_pink_helmet_overlay",
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRWearingHelmetBlack",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_wearing_helmet_black",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRBlackHelmetOverlay",
+      "type": "overlay",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_black_helmet_overlay",
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRWearingHelmetGreen",
+      "type": "procedure",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_wearing_helmet_green",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRGreenHelmetOverlay",
+      "type": "overlay",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_green_helmet_overlay",
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRWearingHelmetWhite",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_wearing_helmet_white",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRWhiteHelmetOverlay",
+      "type": "overlay",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_white_helmet_overlay",
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRWearingHelmetDrakkon",
+      "type": "procedure",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_wearing_helmet_drakkon",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRDrakkonHelmetOverlay",
+      "type": "overlay",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_drakkon_helmet_overlay",
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRWearingSlayerHelmet",
+      "type": "procedure",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_wearing_slayer_helmet",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRSlayerHelmetOverlay",
+      "type": "overlay",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_slayer_helmet_overlay",
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "ToggleHelmetOverlayOnKeyPressed",
+      "type": "procedure",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toggle_helmet_overlay_on_key_pressed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Misc"
+    },
+    {
+      "name": "ToggleHelmetOverlay",
+      "type": "keybind",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toggle_helmet_overlay",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FirstPerson",
+      "type": "procedure",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "first_person",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MMPR/Ranger Suits/Helmet Overlays"
     }
   ],
-  "variable_elements": [],
+  "variable_elements": [
+    {
+      "name": "HelmetOverlay",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "true"
+    },
+    {
+      "name": "FirstPerson",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "true"
+    },
+    {
+      "name": "overlayToggled",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "false"
+    }
+  ],
   "sound_elements": [
     {
       "name": "mm_dragon_roar",
@@ -664,6 +969,7 @@
       "item.powerrangers.mmpr_green_ranger_chestplate": "Green Ranger Chest",
       "item.powerrangers.mmpr_yellow_ranger_helmet": "Yellow Ranger Helmet",
       "subtitles.mm_blaster_fire": "",
+      "key.powerrangers.toggle_helmet_overlay": "Toggle Helmet Overlay",
       "item.powerrangers.mmpr_lord_drakkon_chestplate": "Lord Drakon Chest",
       "item.powerrangers.mmpr_pink_ranger_helmet": "Pink Ranger Helmet",
       "item.powerrangers.mmpr_blue_morpher": "Blue Morpher",
@@ -683,7 +989,12 @@
         "children": [
           {
             "name": "Ranger Suits",
-            "children": []
+            "children": [
+              {
+                "name": "Helmet Overlays",
+                "children": []
+              }
+            ]
           },
           {
             "name": "Morphers",

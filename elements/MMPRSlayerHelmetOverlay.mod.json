@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "overlay",
+  "definition": {
+    "priority": "LOWEST",
+    "components": [],
+    "baseTexture": "mmpr_ranger_slayer_hud.png",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "MMPRWearingSlayerHelmet"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}
