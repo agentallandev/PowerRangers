@@ -807,6 +807,398 @@
         ]
       },
       "path": "~/MMPR/Ranger Suits/Helmet Overlays"
+    },
+    {
+      "name": "MMPRUnmorphRed",
+      "type": "procedure",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_unmorph_red",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRUnmorphYellow",
+      "type": "procedure",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_unmorph_yellow",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRUnmorphBlue",
+      "type": "procedure",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_unmorph_blue",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRUnmorphBlack",
+      "type": "procedure",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_unmorph_black",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRUnmorphPink",
+      "type": "procedure",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_unmorph_pink",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRUnmorphGreen",
+      "type": "procedure",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_unmorph_green",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRUnmorphWhite",
+      "type": "procedure",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_unmorph_white",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRUnmorphDrakkon",
+      "type": "procedure",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_unmorph_drakkon",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "MMPRUnmorphSlayer",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_unmorph_slayer",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MMPR/Morphers/Morpher Logic"
+    },
+    {
+      "name": "UnmorphKeybindFunction",
+      "type": "procedure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unmorph_keybind_function",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Misc"
+    },
+    {
+      "name": "UnmorphKeybind",
+      "type": "keybind",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unmorph_keybind",
+      "path": "~/Misc"
+    },
+    {
+      "name": "RangerEffects",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ranger_effects",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MMPR/Misc"
+    },
+    {
+      "name": "MMPRHelmet",
+      "type": "tag",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_helmet",
+      "path": "~/MMPR/Misc"
+    },
+    {
+      "name": "MMPRChest",
+      "type": "tag",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_chest",
+      "path": "~/MMPR/Misc"
+    },
+    {
+      "name": "MMPRPants",
+      "type": "tag",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_pants",
+      "path": "~/MMPR/Misc"
+    },
+    {
+      "name": "MMPRBoots",
+      "type": "tag",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mmpr_boots",
+      "path": "~/MMPR/Misc"
     }
   ],
   "variable_elements": [
@@ -827,6 +1219,12 @@
       "type": "logic",
       "scope": "player_persistent",
       "value": "false"
+    },
+    {
+      "name": "RangerTier",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
     }
   ],
   "sound_elements": [
@@ -931,6 +1329,7 @@
       "subtitles.mm_dragon_roar": "",
       "item.powerrangers.mmpr_ranger_slayer_chestplate": "Ranger Slayer Chest",
       "item.powerrangers.mmpr_red_ranger_helmet": "Red Ranger Helmet",
+      "key.powerrangers.unmorph_keybind": "Power Down",
       "item.powerrangers.mmpr_lord_drakkon_helmet": "Lord Drakon Helmet",
       "item.powerrangers.mmpr_red_ranger_leggings": "Red Ranger Pants",
       "item.powerrangers.mmpr_red_ranger_boots": "Red Ranger Boots",
@@ -1004,6 +1403,14 @@
                 "children": []
               }
             ]
+          },
+          {
+            "name": "Misc",
+            "children": []
+          },
+          {
+            "name": "Weapons",
+            "children": []
           }
         ]
       },
@@ -1017,6 +1424,7 @@
     "modid": "powerrangers",
     "modName": "PowerRangers",
     "version": "1.0.0",
+    "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
@@ -1025,6 +1433,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "com.github.agentallandev.powerrangers",
     "lockBaseModFiles": false
   },

@@ -75,6 +75,7 @@ public class PowerrangersModVariables {
 			clone.HelmetOverlay = original.HelmetOverlay;
 			clone.FirstPerson = original.FirstPerson;
 			clone.overlayToggled = original.overlayToggled;
+			clone.RangerTier = original.RangerTier;
 			if (!event.isWasDeath()) {
 			}
 		}
@@ -114,6 +115,7 @@ public class PowerrangersModVariables {
 		public boolean HelmetOverlay = true;
 		public boolean FirstPerson = true;
 		public boolean overlayToggled = false;
+		public double RangerTier = 0;
 
 		public void syncPlayerVariables(Entity entity) {
 			if (entity instanceof ServerPlayer serverPlayer)
@@ -125,6 +127,7 @@ public class PowerrangersModVariables {
 			nbt.putBoolean("HelmetOverlay", HelmetOverlay);
 			nbt.putBoolean("FirstPerson", FirstPerson);
 			nbt.putBoolean("overlayToggled", overlayToggled);
+			nbt.putDouble("RangerTier", RangerTier);
 			return nbt;
 		}
 
@@ -133,6 +136,7 @@ public class PowerrangersModVariables {
 			HelmetOverlay = nbt.getBoolean("HelmetOverlay");
 			FirstPerson = nbt.getBoolean("FirstPerson");
 			overlayToggled = nbt.getBoolean("overlayToggled");
+			RangerTier = nbt.getDouble("RangerTier");
 		}
 	}
 
@@ -161,6 +165,7 @@ public class PowerrangersModVariables {
 					variables.HelmetOverlay = message.data.HelmetOverlay;
 					variables.FirstPerson = message.data.FirstPerson;
 					variables.overlayToggled = message.data.overlayToggled;
+					variables.RangerTier = message.data.RangerTier;
 				}
 			});
 			context.setPacketHandled(true);

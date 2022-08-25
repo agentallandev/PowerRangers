@@ -5,6 +5,7 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.TickEvent;
 import net.minecraftforge.common.MinecraftForge;
 
+import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.LevelAccessor;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.item.ItemStack;
@@ -12,10 +13,12 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.entity.Entity;
+import net.minecraft.world.InteractionHand;
 import net.minecraft.sounds.SoundSource;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.core.BlockPos;
 
+import com.github.agentallandev.powerrangers.network.PowerrangersModVariables;
 import com.github.agentallandev.powerrangers.init.PowerrangersModItems;
 
 public class MMPRMorphPinkProcedure {
@@ -67,9 +70,23 @@ public class MMPRMorphPinkProcedure {
 				_living.setItemSlot(EquipmentSlot.FEET, new ItemStack(PowerrangersModItems.MMPR_PINK_RANGER_BOOTS.get()));
 			}
 		}
-		if (entity instanceof Player _player) {
-			ItemStack _stktoremove = new ItemStack(PowerrangersModItems.MMPR_PINK_MORPHER.get());
-			_player.getInventory().clearOrCountMatchingItems(p -> _stktoremove.getItem() == p.getItem(), 1, _player.inventoryMenu.getCraftSlots());
+		if ((entity instanceof LivingEntity _livEnt ? _livEnt.getOffhandItem() : ItemStack.EMPTY).getItem() == PowerrangersModItems.MMPR_PINK_MORPHER
+				.get()) {
+			if (entity instanceof LivingEntity _entity) {
+				ItemStack _setstack = new ItemStack(Blocks.AIR);
+				_setstack.setCount(1);
+				_entity.setItemInHand(InteractionHand.OFF_HAND, _setstack);
+				if (_entity instanceof Player _player)
+					_player.getInventory().setChanged();
+			}
+		} else {
+			if (entity instanceof LivingEntity _entity) {
+				ItemStack _setstack = new ItemStack(Blocks.AIR);
+				_setstack.setCount(1);
+				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
+				if (_entity instanceof Player _player)
+					_player.getInventory().setChanged();
+			}
 		}
 		new Object() {
 			private int ticks = 0;
@@ -104,5 +121,12 @@ public class MMPRMorphPinkProcedure {
 				MinecraftForge.EVENT_BUS.unregister(this);
 			}
 		}.start(world, 60);
+		{
+			double _setval = 2;
+			entity.getCapability(PowerrangersModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
+				capability.RangerTier = _setval;
+				capability.syncPlayerVariables(entity);
+			});
+		}
 	}
 }

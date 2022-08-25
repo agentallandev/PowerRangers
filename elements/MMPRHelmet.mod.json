@@ -1,0 +1,41 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MMPRRedRanger.helmet"
+      },
+      {
+        "value": "CUSTOM:MMPRBlueRanger.helmet"
+      },
+      {
+        "value": "CUSTOM:MMPRYellowRanger.helmet"
+      },
+      {
+        "value": "CUSTOM:MMPRBlackRanger.helmet"
+      },
+      {
+        "value": "CUSTOM:MMPRPinkRanger.helmet"
+      },
+      {
+        "value": "CUSTOM:MMPRGreenRanger.helmet"
+      },
+      {
+        "value": "CUSTOM:MMPRWhiteRanger.helmet"
+      },
+      {
+        "value": "CUSTOM:MMPRLordDrakkon.helmet"
+      },
+      {
+        "value": "CUSTOM:MMPRRangerSlayer.helmet"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "mmpr_helmet",
+    "namespace": "forge"
+  }
+}

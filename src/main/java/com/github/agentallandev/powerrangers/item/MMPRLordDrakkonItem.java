@@ -3,15 +3,19 @@ package com.github.agentallandev.powerrangers.item;
 
 import net.minecraftforge.registries.ForgeRegistries;
 
+import net.minecraft.world.level.Level;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ArmorMaterial;
 import net.minecraft.world.item.ArmorItem;
+import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.resources.ResourceLocation;
+
+import com.github.agentallandev.powerrangers.procedures.RangerEffectsProcedure;
 
 public abstract class MMPRLordDrakkonItem extends ArmorItem {
 	public MMPRLordDrakkonItem(EquipmentSlot slot, Item.Properties properties) {
@@ -77,6 +81,11 @@ public abstract class MMPRLordDrakkonItem extends ArmorItem {
 		@Override
 		public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
 			return "powerrangers:textures/models/armor/drakkon__layer_1.png";
+		}
+
+		@Override
+		public void onArmorTick(ItemStack itemstack, Level world, Player entity) {
+			RangerEffectsProcedure.execute(entity);
 		}
 	}
 

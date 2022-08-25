@@ -1,0 +1,41 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MMPRRedRanger.boots"
+      },
+      {
+        "value": "CUSTOM:MMPRBlueRanger.boots"
+      },
+      {
+        "value": "CUSTOM:MMPRYellowRanger.boots"
+      },
+      {
+        "value": "CUSTOM:MMPRBlackRanger.boots"
+      },
+      {
+        "value": "CUSTOM:MMPRPinkRanger.boots"
+      },
+      {
+        "value": "CUSTOM:MMPRGreenRanger.boots"
+      },
+      {
+        "value": "CUSTOM:MMPRWhiteRanger.boots"
+      },
+      {
+        "value": "CUSTOM:MMPRLordDrakkon.boots"
+      },
+      {
+        "value": "CUSTOM:MMPRRangerSlayer.boots"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "mmpr_boots",
+    "namespace": "forge"
+  }
+}

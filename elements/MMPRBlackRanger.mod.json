@@ -10,6 +10,9 @@
     "textureLeggings": "pantsblack",
     "enableBoots": true,
     "textureBoots": "mmboots",
+    "onBodyTick": {
+      "name": "RangerEffects"
+    },
     "creativeTab": {
       "value": "No creative tab entry"
     },
